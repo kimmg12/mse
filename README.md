@@ -6,7 +6,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![My helpful screenshot]({{ "https://s.pstatic.net/static/www/mobile/edit/2019/0108/mobile_121157102151.jpg" | absolute_url }})
 
 ```markdown
 Syntax highlighted code block
