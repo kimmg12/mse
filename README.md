@@ -1,8 +1,8 @@
 ## 안녕하세요
 
-You can use the [editor on GitHub](https://github.com/kimmg12/mse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+외관을 보면 차량 전면의 육각형 그릴이 눈에 띈다. DS 윙스(DS WINGS)로 불리는 다이아몬드 패턴의 육각형 그릴과 이를 감싸는 크롬 라인은 DS 7 크로스백의 우아하면서 관능적인 카리스마를 드러낸다. 알루미늄 보닛 위의 굵은 라인은 DS 엠블럼을 강조하는 한편, 헤드램프에서 리어램프로 이어지는 측면의 예리한 캐릭터라인은 역동성과 위엄을 더한다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+시동을 걸면 보랏빛을 발산하며 회전하는 ‘DS 액티브 LED 비전’ 헤드램프, 첨단 레이저 인그레이빙 기술로 파충류의 비늘을 형상화해 정교함과 생명감을 더한 ‘DS 3D 리어 라이트’, 수직형 주간주행등 및 스크롤링 방향지시등이 시선을 단번에 사로잡는 시각적 효과로 ‘예술이 있는 삶(Art de vivre)’을 지향하는 프랑스와 DS 만의 스타일을 완성했다.
 
 ### Markdown
 
